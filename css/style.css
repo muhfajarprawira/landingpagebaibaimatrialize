@@ -16,7 +16,6 @@
 
 .brand-logo img {
 	height: 30px;
-	position: left;
 }
 
 ul li a:hover {
@@ -38,17 +37,6 @@ ul li a:hover {
 	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-.slider .slides {
-	background-color: transparent;
-}
-
-.slider .slides li img {
-	width: 100%;
-	background-position: center;
-	background-size: 100% auto;
-	background-repeat: no-repeat;
-}
-
 .parallax-container {
 	height: 20%;
 }
@@ -66,9 +54,6 @@ ul li a:hover {
 section,
 footer {
 	padding: 10px 0;
-}
-footer .p {
-	font-size: 10px;
 }
 
 @media only screen and (max-width: 768px) {
