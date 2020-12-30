@@ -10,9 +10,27 @@
 	font-family: Quicksand;
 }
 
+.body {
+}
+
 .brand-logo img {
 	height: 30px;
+	position: left;
 }
+
+ul li a:hover {
+	border-radius: 1px solid transparent;
+	transition: all ease 0.2s;
+}
+
+.btn {
+	border: 1px solid transparent;
+}
+
+.btn {
+	border: 1px 100%;
+}
+
 .slider h3,
 .slider h5,
 .clients h3 {

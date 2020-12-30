@@ -1,0 +1,18 @@
+======== PINK
+
+HTML/HEX kode:	#fd0798	
+RGB kode:	rgb(253, 7, 152)	
+Hsl kode:	hsl(325, 98%, 51%)	
+Hwb kode:	hwb(325, 3%, 1%)	
+Cmyk kode:	cmyk(0%, 97%, 40%, 1%)	
+Ncol kode:	M41, 3%, 1%
+
+======= Blue
+HTML/HEX kode:	#00aeef	
+RGB kode:	rgb(0, 174, 239)	
+Hsl kode:	hsl(196, 100%, 47%)	
+Hwb kode:	hwb(196, 0%, 6%)	
+Cmyk kode:	cmyk(100%, 27%, 0%, 6%)	
+Ncol kode:	C27, 0%, 6%	
+
+
