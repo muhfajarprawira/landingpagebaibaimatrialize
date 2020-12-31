@@ -8,6 +8,9 @@
 
 * {
 	font-family: Quicksand;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
 }
 
 .brand-logo img {
@@ -66,4 +69,28 @@ ul li a.active:hover {
 section,
 footer {
 	padding: 10px 0;
+}
+
+@media screen and (max-width: 600px) {
+	.slider {
+		margin-top: -23%;
+	}
+
+	.fitur {
+		margin-top: -20%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.slider {
+		margin-top: -15%;
+	}
+
+	.fitur {
+		margin-top: -15%;
+	}
+
+	.brand-logo img {
+		margin-left: -200px;
+	}
 }
