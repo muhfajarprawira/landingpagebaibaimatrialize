@@ -14,9 +14,12 @@
 	height: 30px;
 }
 
-ul li a:hover {
-	border-radius: 1px solid transparent;
-	transition: all ease 0.2s;
+ul li a.active {
+	background: #fd0798;
+}
+
+ul li a.active:hover {
+	background: #00aeef;
 }
 
 .btn {
